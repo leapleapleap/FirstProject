@@ -4,4 +4,7 @@ public class UserTest{
 	private String gender;
 	private int a = 10;
 	private int b = 20;
+	
+	private int d = 30;
+	private int e = 20;
 }
