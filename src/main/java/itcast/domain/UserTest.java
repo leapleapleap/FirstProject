@@ -9,5 +9,7 @@ public class UserTest{
 	
 	private int e = 20;
 	
+	private int cccc = 2323;
+	
 	private int dddd = 222;
 }
