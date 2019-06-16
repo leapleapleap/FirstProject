@@ -8,4 +8,6 @@ public class UserTest{
 	private int d = 30;
 	
 	private int e = 20;
+	
+	private int dddd = 222;
 }
